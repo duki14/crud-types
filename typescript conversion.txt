@@ -1,0 +1,10 @@
+---------------------//--------------------------
+
+npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+
+change index.js --> index.tsc
+
+
+my working file --> npx tsc --init  (this creates tsconfig.json)
+
